@@ -41,7 +41,7 @@ The data used in this project from
 
 
 
-**RAW DATA INFORMATION**
+### RAW DATA INFORMATION
 
 **ID**
 
@@ -232,63 +232,63 @@ annotation A POI which indicates presence of amenity in a nearby location.
 
 A POI annotation which indicates presence of speed bump or hump in a nearby location.
 
-**checkCrossing
+**checkCrossing**
 
 A POI annotation which indicates presence of crossing in a nearby location.
 
-**Give_Way
+**Give_Way**
 
 A POI annotation which indicates presence of give\_way in a nearby location.
 
-**checkJunction
+**checkJunction**
 
 A POI annotation which indicates presence of junction in a nearby location.
 
-**No_Exit
+**No_Exit**
 
 A POI annotation which indicates presence of no\_exit in a nearby location.
 
-**Railway
+**Railway**
 
 A POI annotation which indicates presence of railway in a nearby location.
 
-**Roundabout
+**Roundabout**
 
 A POI annotation which indicates presence of roundabout in a nearby location.
 
-**Station
+**Station**
 
 A POI annotation which indicates presence of station in a nearby location.
 
-**Stop
+**Stop**
 
 A POI annotation which indicates presence of stop in a nearby location.
 
-**Traffic_Calming
+**Traffic_Calming**
 
 A POI annotation which indicates presence of traffic\_calming in a nearby location.
 
-**Traffic_Signal
+**Traffic_Signal**
 
 A POI annotation which indicates presence of traffic\_signal in a nearby location.
 
-**Turning_Loop
+**Turning_Loop**
 
 A POI annotation which indicates presence of turning\_loop in a nearby location.
 
-**Sunrise_Sunset
+**Sunrise_Sunset**
 
 Shows the period of day (i.e. day or night) based on sunrise/sunset.
 
-**Civil_Twilight
+**Civil_Twilight**
 
 Shows the period of day (i.e. day or night) based on civil twilight.
 
-**Nautical_Twilight
+**Nautical_Twilight**
 
 Shows the period of day (i.e. day or night) based on nautical twilight.
 
-**Astronomical_Twilight
+**Astronomical_Twilight**
 
 Shows the period of day (i.e. day or night) based on astronomical twilight.
 
