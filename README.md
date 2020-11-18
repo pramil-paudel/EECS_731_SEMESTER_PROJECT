@@ -191,44 +191,44 @@ Shows the wind chill (in Fahrenheit).
 
 grid\_3x3
 
-**Humidity(%)
+**Humidity(%)**
 
 Shows the humidity (in percentage).
 
-**Pressure(in)
+**Pressure(in)**
 
 Shows the air pressure (in inches).
 
-**Visibility(mi)
+**Visibility(mi)**
 
 Shows visibility (in miles).
 
 
-**Wind_Direction
+**Wind_Direction**
 
 Shows wind direction.
 
 grid\_3x3
 
-**Wind_Speed(mph)
+**Wind_Speed(mph)**
 
 Shows in miles per hour).
 
 
-**Precipitation(in)
+**Precipitation(in)**
 
 Shows precipitation amount in inches, if there is any.
 
 
-**Weather_Condition
+**Weather_Condition**
 
 Shows the weather condition (rain, snow, thunderstorm, fog, etc.)
 
-**Amenity
+**Amenity**
 
 annotation A POI which indicates presence of amenity in a nearby location.
 
-**Bump
+**Bump**
 
 A POI annotation which indicates presence of speed bump or hump in a nearby location.
 
