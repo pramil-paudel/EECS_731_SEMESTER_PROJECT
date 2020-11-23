@@ -1,7 +1,7 @@
 # EECS_731_SEMESTER_PROJECT
 This project is accident severity prediction based on the historical data of US Accident. This project is written/created for the partial fullfilment of course work EECS_731. 
 
-### HOW TO OPEN PROJECT 
+### HOW TO UNDERSTAND/EXAMINE PROJECT 
 * It is highly recomended to open reports folder as some of the graphs are not rendered by Github. There are notebooks in PDF format to look in more details. 
 ### PROJECT MEMBERS 
 * PRAMIL PAUDEL
