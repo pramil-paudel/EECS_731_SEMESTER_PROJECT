@@ -26,8 +26,9 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents
 * K-NN Model
 
 ## PREDICTION/REGRESSION MODELS
-*
-* 
+* ARIMA
+* SARIMAX
+* Facebook Prophet
 ## VISUALIZATION STRATEGIES 
 * Visualization using ploty in USA Map upto county level
 * Bar Graph, Scatter Graph etc using Pandas 
